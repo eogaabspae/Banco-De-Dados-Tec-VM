@@ -1,0 +1,9 @@
+nota = int(input("Informe uma nota entre 0 e 10: "))
+
+if nota < 11:
+  print("A nota informada é: ", nota)
+
+elif nota > 10:
+  print("A nota informada é: ", nota)
+  print("Sua nota é Invalida!")
+ 
